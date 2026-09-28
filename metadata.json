@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Vehicle Telematics & Cabin Safety System",
+  "description": "Production-grade Deep Learning micro-project telematics dashboard featuring real-time live Open-Meteo telemetry feeds, CNN dashcam perception engine, LSTM spatial trajectory forecasting, deep ANN battery prediction, and Autoencoder cyber-security intrusion detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
